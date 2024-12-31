@@ -58,9 +58,9 @@ def logout(arg, ip):
             arg))
 
 
-data = {"account": "xxxxx",  # 账号
-        "password": "xxxxx",  # 密码
-        "operator": "cmcc"}  # 运营商  默认移动cmcc   电信telecom  联通unicom
+data = {"account": "1685727",  # 账号
+        "password": "sxwlyyds160521",  # 密码
+        "operator": "unicom"}  # 运营商  默认移动cmcc   电信telecom  联通unicom
 # 全局变量
 re = []
 if __name__ == '__main__':
